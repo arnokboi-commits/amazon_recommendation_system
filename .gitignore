@@ -1,0 +1,18 @@
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
